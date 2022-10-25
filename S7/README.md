@@ -25,7 +25,7 @@
 ### d) utiliser des buttons avec event, en donnant du JS dans l'attribut onClick
 
 ```javascript
-<SCRIPT >alert("I hacked you")</SCRIPT >
+<SCRIPT >alert("I hacked you")</SCRIPT > // ajout d'espace dans les balises
 ```
 ```javascript
 <SCRIPT >alert(document.cookie)</SCRIPT >
