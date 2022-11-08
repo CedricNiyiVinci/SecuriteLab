@@ -46,6 +46,7 @@ Que quelqu'un a tenter d'envoyer un mail de fishing
 
 ### Un peu plus loin, vous pouvez trouver du trafic SMB avec un serveur SMB qui semble se trouver sur 192.168.1.8, procédez à l’inspection du tcp-stream comme nous l’avons vu à l’exercice précédent.
 
-Apparement le contenu malvaillant à été téléchargé
+Apparement le contenu malvaillant à été téléchargé par la victime, elle a cliquer sur le lien.
 
-### Un peu plus loin, vous pouvez trouver du trafic SMB avec un serveur SMB qui semble se trouver sur 192.168.1.8, procédez à l’inspection du tcp-stream comme nous l’avons vu à l’exercice précédent.
+
+### Avec quelques autres suivis de tcp-stream, vous pouvons continuez à analyser cette histoire, que ce passe-t-il ensuite ...
